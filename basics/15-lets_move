@@ -1,2 +1,2 @@
-15-lets_move
+#!/bin/bash
 mv [[:upper:]]* /tmp/u
